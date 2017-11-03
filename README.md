@@ -1,0 +1,1 @@
+This is sample project of usin SOAP API in Android. It uses example SOAP API made for educational purposes.
